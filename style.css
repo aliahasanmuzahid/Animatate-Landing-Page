@@ -107,7 +107,7 @@ body{
 }
 #about_section{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 #about_section #text_bar{
     align-content: center;
@@ -280,3 +280,4 @@ body{
 #main_body, #about_section, #vew_project, #skill_section{
     /* display: none; */
 }
+
